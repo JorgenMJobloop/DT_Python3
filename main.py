@@ -29,7 +29,7 @@ til en ny linje
 
 print("########## ny linje\n")
 
-print(modul_eksempel.my_string_function("Jørgen"))
+print(modul_eksempel.my_string_function("Navn"))
 
 print(modul_eksempel.no_parameters())
 
